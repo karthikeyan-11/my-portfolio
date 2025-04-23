@@ -1,0 +1,10 @@
+Hello there!
+
+I'm Karthikeyan V, currently learning Git and working on improving my understanding of software tools and electronics. I come from an electronics background and I'm exploring areas like:
+
+- Artificial Intelligence and LLMs
+- Python Programming
+
+I'm also interested in animation, visual learning, and tech-based problem solving. This file is part of my Git learning project, and it's fun to see how small changes can be tracked and shared using Git!
+
+Thanks for stopping by my repo!
