@@ -26,4 +26,4 @@ I'm Karthikeyan V, an aspiring engineer learning to work with tools and technolo
 - Learn and teach AI using LLMs
 - Build a strong portfolio of work using GitHub
 
-Thanks for visiting! 🚀
+  ------------Thanks for visiting! 🚀 --------------
